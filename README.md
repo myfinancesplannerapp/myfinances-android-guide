@@ -1,5 +1,3 @@
-# My Finances Planner for Android — User Guide
+# Moved
 
-The web guide (index.html) and PDF for the Android app, published with GitHub Pages.
-
-iPhone, iPad, Mac and Apple Watch guide: https://myfinancesplannerapp.github.io/myfinances-support/guide.html
+The Android guide is now at https://myfinplan.app/android/ (source in myfinances-support/android).
